@@ -6,7 +6,6 @@
 </p>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=sujata1712&style=flat-square&color=blueviolet" alt="Profile views" />
   <img src="https://img.shields.io/badge/Open%20to-Collaboration-brightgreen?style=flat-square" />
   <img src="https://img.shields.io/badge/Status-Learning%20%26%20Building-blue?style=flat-square" />
 </p>
@@ -17,8 +16,8 @@
 
 - 🎓 B.Tech in Computer Science & Engineering
 - 📊 Aspiring Data Analyst, passionate about Machine Learning, Data Science & AI
-- 🛠️ Skilled in **Python, SQL, Power BI, Excel & Machine Learning**
-- 🌱 Currently exploring end-to-end ML pipelines and interactive dashboarding
+- 🛠️ Skilled in **Python, SQL, Power BI, Excel, Machine Learning, LangChain & RAG**
+- 🌱 Currently exploring end-to-end ML pipelines, LLM apps with RAG, and interactive dashboarding
 - 🤝 Open to collaborating on data analytics & ML projects
 - ⚡ Fun fact: I love finding stories hidden inside messy data
 
@@ -36,36 +35,15 @@
   <img src="https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white" />
   <img src="https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white" />
   <img src="https://img.shields.io/badge/NLP-4B8BBE?style=for-the-badge&logo=readthedocs&logoColor=white" />
+  <img src="https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white" />
+  <img src="https://img.shields.io/badge/RAG-8A2BE2?style=for-the-badge&logo=databricks&logoColor=white" />
+  <img src="https://img.shields.io/badge/LLM-412991?style=for-the-badge&logo=openai&logoColor=white" />
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
   <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
 </p>
 
 <br/>
 
-## 📊 GitHub Stats
-
-<p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=sujata1712&show_icons=true&theme=radical&hide_border=true" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sujata1712&layout=compact&theme=radical&hide_border=true" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=sujata1712&theme=radical&hide_border=true" />
-</p>
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=sujata1712&theme=radical&no-frame=true&row=1&column=6" />
-</p>
-
-<br/>
-
-## 📈 Contribution Graph
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=sujata1712&theme=redical&hide_border=true" />
-</p>
-
-<br/>
 
 ## 🌐 Connect with Me
 
